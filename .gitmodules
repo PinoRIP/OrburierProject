@@ -1,0 +1,3 @@
+[submodule "Plugins/Orburier"]
+	path = Plugins/Orburier
+	url = https://github.com/PinoRIP/Orburier.git
