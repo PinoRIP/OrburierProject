@@ -3,6 +3,7 @@
 
 # Rider for Unreal
 .idea/
+*.DotSettings.user
 
 # Compiled Object files
 *.slo
