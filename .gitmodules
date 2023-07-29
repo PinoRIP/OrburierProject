@@ -1,3 +1,6 @@
 [submodule "Plugins/Orburier"]
 	path = Plugins/Orburier
 	url = https://github.com/PinoRIP/Orburier.git
+[submodule "Plugins/Tests/OrburierTest"]
+	path = Plugins/Tests/OrburierTest
+	url = https://github.com/PinoRIP/OrburierTest.git
