@@ -21,6 +21,14 @@
 		{
 			"Name": "NetworkPredictionInsights",
 			"Enabled": true
+		},
+		{
+			"Name": "NetworkPredictionExtras",
+			"Enabled": true
+		},
+		{
+			"Name": "OrburierTesting",
+			"Enabled": false
 		}
 	]
 }
