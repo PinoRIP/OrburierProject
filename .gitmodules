@@ -7,6 +7,3 @@
 [submodule "Plugins/OrburierTesting"]
 	path = Plugins/OrburierTesting
 	url = https://github.com/PinoRIP/OrburierTesting.git
-[submodule "Plugins/FunK"]
-	path = Plugins/FunK
-	url = https://github.com/PinoRIP/FunK
