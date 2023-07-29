@@ -27,7 +27,19 @@
 			"Enabled": true
 		},
 		{
+			"Name": "Orburier",
+			"Enabled": true
+		},
+		{
+			"Name": "OrburierTest",
+			"Enabled": true
+		},
+		{
 			"Name": "OrburierTesting",
+			"Enabled": true
+		},
+		{
+			"Name": "FunK",
 			"Enabled": true
 		}
 	]
